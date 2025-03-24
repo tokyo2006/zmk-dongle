@@ -1,4 +1,4 @@
-# ZMK Receiver
+# ZMK Dongle
 
 [Chinese](README.md)
 [English](README_en.md)

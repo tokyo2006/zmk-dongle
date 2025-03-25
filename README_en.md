@@ -3,8 +3,11 @@
 [Chinese](README.md)
 [English](README_en.md)
 
+---
+
 > A dongle made using the Micro nrf52840 by睫毛哥, I only bought it from Taobao but I asked for a link to the Aliexpress page. you can reference
-> Aliexpress: [Micro nrf52840](https://vi.aliexpress.com/item/1005007859027151.html?gatewayAdapt=glo2vnm)
+> Taobao: [Micro nrf52840](http://e.tb.cn/h.gurVKZZWPhSRJPc?tk=apWz3k02DW5HU7632)
+> Aliexpress: [Micro nrf52840](https://www.aliexpress.com/item/1005008478700957.html)
 
 This dongle requires manually flashing the bootloader. The bootloader file is located in the "bootloader" folder. Files in the "PCB" folder can be opened using嘉立创EDA software. Files in the "case" folder are for the housing and can be printed if desired.
 

@@ -6,10 +6,12 @@
 ---
 
 > 使用睫毛哥的micro52840做的一个接收器
+> 
 > **淘宝**: [Micro nrf52840](http://e.tb.cn/h.gurVKZZWPhSRJPc?tk=apWz3k02DW5HU7632)
+> 
 > **Aliexpress** : [Micro nrf52840](https://www.aliexpress.com/item/1005008478700957.html)
 
-所有都接收器需要自行刷bootloader, bootloader文件在bootloader文件夹下面，PCB文件夹中的文件用嘉立创的EDA软件打开。case文件夹里面是壳子，可以自己打印
+**所有都接收器需要自行刷bootloader**, bootloader文件在bootloader文件夹下面，PCB文件夹中的文件用嘉立创的EDA软件打开。case文件夹里面是壳子，可以自己打印
 
 ## 单接收器
 
